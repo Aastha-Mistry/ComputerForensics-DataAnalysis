@@ -1,5 +1,3 @@
-# ComputerForensics-DataAnalysis
-Data analysis project for Computer Forensics using Jupyter Notebook
 # Cybercrime Data Analysis
 
 This project showcases the application of data analysis and machine learning techniques in the field of computer forensics. Using the `cybercrime_forensic_dataset.csv` dataset from Kaggle, this project aims to detect suspicious activities and classify them using a RandomForestClassifier.
