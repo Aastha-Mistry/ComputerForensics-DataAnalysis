@@ -32,7 +32,7 @@ In this project, I performed a detailed data analysis using Python, focusing on 
 
 ## Files in the Repository
 
-- CompForensicsNewProject.ipynb: Jupyter Notebook containing the data analysis and machine learning code.
+- ComputerForensicsDataAnalysis.ipynb: Jupyter Notebook containing the data analysis and machine learning code.
 - suspicious_data.csv: CSV file containing the processed suspicious data.
 
 ## Conclusion
